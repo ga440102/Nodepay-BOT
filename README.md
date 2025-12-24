@@ -99,5 +99,5 @@ python setup.py #or python3 setup.py
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
+
 

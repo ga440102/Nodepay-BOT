@@ -5,7 +5,7 @@ Nodepay BOT
 - Use Code `602s4gUlz7hSA98`
 
 ## Features
-  - If you have set up a private Turnstile-Solver, please use setup2.py
+  - Private Turnstile-Solver support
   - Auto Get Account Information
   - Auto Run With [Free Proxyscrape](https://proxyscrape.com/free-proxy-list) Proxy - `Choose 1`
   - Auto Run With Private Proxy - `Choose 2`
@@ -18,7 +18,7 @@ Nodepay BOT
 ### Note: auto connects 3 Nodes if u using proxies and only 1 if not.
 
 ## Requiremnets
-
+- If you have set up a private Turnstile-Solver, please use setup2.py
 - Make sure you have Python3.9 or higher installed and pip.
 - 2captcha key (optional)
 

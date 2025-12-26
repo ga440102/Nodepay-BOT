@@ -26,7 +26,7 @@ Nodepay BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Nodepay-BOT.git
+   git clone https://github.com/ga440102/Nodepay-BOT.git
    ```
    ```bash
    cd Nodepay-BOT

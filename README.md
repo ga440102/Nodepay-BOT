@@ -5,7 +5,7 @@ Nodepay BOT
 - Use Code `602s4gUlz7hSA98`
 
 ## Features
-  -If you have set up a private Turnstile-Solver, please use setup2.py
+  - If you have set up a private Turnstile-Solver, please use setup2.py
   - Auto Get Account Information
   - Auto Run With [Free Proxyscrape](https://proxyscrape.com/free-proxy-list) Proxy - `Choose 1`
   - Auto Run With Private Proxy - `Choose 2`
